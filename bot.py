@@ -7,7 +7,7 @@ from telegram.ext import (
     ContextTypes, filters, CallbackQueryHandler
 )
 
-BOT_TOKEN = ""
+BOT_TOKEN = "8444535160:AAHtcAd3-vxqjBleHLbOmJJuTWnaZnHrevM"
 COOKIES_DIR = Path("user_cookies")
 COOKIES_DIR.mkdir(exist_ok=True)
 
